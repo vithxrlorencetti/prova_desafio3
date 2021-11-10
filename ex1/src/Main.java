@@ -14,7 +14,8 @@ public class Main {
         System.out.println(numeros);
         System.out.println();
         mostraMedia(numeros);
-
+        mostraMenor(numeros);
+        mostraMaior(numeros);
     }
 
     public static void mostraMedia(List<String> numeros) {
@@ -26,7 +27,34 @@ public class Main {
 
         }
 
-        System.out.println(media / numeros.size());
+        System.out.println("Media: " + media / numeros.size());
 
     }
+
+    public static void mostraMenor(List<String> numeros) {
+
+        int menor = 0;
+
+        for (int i = 0; i < numeros.size(); i++) {
+            if (menor > Integer.parseInt(numeros.get(i))) {
+                menor = Integer.parseInt(numeros.get(i));
+            }
+        }
+
+        System.out.println("Menor: " + menor);
+    }
+
+    public static void mostraMaior(List<String> numeros) {
+
+        int maior = 0;
+
+        for (int i = 0; i < numeros.size(); i++) {
+            if (maior < Integer.parseInt(numeros.get(i))) {
+                maior = Integer.parseInt(numeros.get(i));
+            }
+        }
+
+        System.out.println("Maior: " + maior);
+    }
+
 }
