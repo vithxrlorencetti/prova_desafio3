@@ -11,8 +11,10 @@ public class ClienteController {
     List<Cliente> clientes = new ArrayList<>();
     ClienteDAO clienteDao = new ClienteDAO();
 
-    public List<Cliente> listarClientes() {
-        return clientes;
+    public void listarClientes() {
+        for(int i = 0; i < clientes.size(); i++) {
+            System.out.println(clientes.get(i));
+        }
     }
 
     public void cadastrarCliente(Cliente cliente) {

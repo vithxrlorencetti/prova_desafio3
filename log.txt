@@ -1,0 +1,27 @@
+
+Novo cliente cadastrado no ID > 1 < : Gilberto
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : João
+Novo cliente cadastrado no ID > 4 < : Pedro
+Novo cliente cadastrado no ID > 3 < : Junior
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : João
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : João
+Nova mensagem enviada pelo ID > 1 < : Mensagem de Vithor
+Nova mensagem enviada pelo ID > 1 < : Outra mensagem de Vithor
+Nova mensagem enviada pelo ID > 2 < : Mensagem de João
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : Joao
+Nova mensagem enviada pelo ID > 1 < : Mensagem de Vithor
+Nova mensagem enviada pelo ID > 2 < : Mensagem de Joao
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : Joao
+Nova mensagem enviada pelo ID > 1 < : Mensagem de Vithor
+Nova mensagem enviada pelo ID > 2 < : Mensagem de Joao
+Novo cliente cadastrado no ID > 1 < : Vithor
+Novo cliente cadastrado no ID > 2 < : Joao
+Nova mensagem enviada pelo ID > 1 < : Mensagem de Vithor
+Nova mensagem enviada pelo ID > 2 < : Mensagem de Joao

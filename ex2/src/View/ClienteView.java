@@ -82,7 +82,7 @@ public class ClienteView {
     }
 
     public void listarClientes() {
-        System.out.println(clienteController.listarClientes());
+        clienteController.listarClientes();
     }
 
     public Long selecionarCliente() {
@@ -94,6 +94,7 @@ public class ClienteView {
             return idSelecionado;
         } else {
             System.out.println("O ID desejado ainda não existe.");
+            this.menuCliente();
             return null;
         }
 

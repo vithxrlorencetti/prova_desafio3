@@ -25,7 +25,7 @@ public class ClienteDAO {
             FileWriter fileWriter = new FileWriter(log, true);
             PrintWriter printWriter  = new PrintWriter(fileWriter);
 
-            printWriter.println(cliente + " -> foi cadastrado");
+            printWriter.println("Novo cliente cadastrado no ID > " + cliente.getIdCLiente() + " < : " + cliente.getNomeCliente());
 
             fileWriter.close();
 
